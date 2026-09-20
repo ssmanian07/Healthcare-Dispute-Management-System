@@ -1,0 +1,6 @@
+{
+  "name": "Healthcare Dispute & Denial Management System",
+  "description": "Cloud-scale RCM dispute and denial management platform with high-volume 1M+ EDI 835 stream ingestion, 6-node operational hospital routing, and Azure enterprise architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
